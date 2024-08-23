@@ -1,0 +1,28 @@
+.table{
+    margin: 20px auto;
+    background-color: #f0f0f0;
+}
+
+td{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 0;
+}
+
+.h { background-color:  #00e5ff;}
+.gases-nobres { background-color: #ee428d;}
+.metais-alcalinos { background-color: #C7C6BE; }
+.metais-alcalinos-terrosos { background-color: #ff0000; }
+.metais-transição { background-color: #f7b05a; }
+.Semimetais { background-color: #46db4b; }
+.não-metais { background-color: rgb(0, 255, 213); }
+.lantanídeos { background-color: rgba(212, 212, 21, 0.781); }
+.actinídeos { background-color: rgb(110, 110, 228); }
+.empty {
+    border: none;
+    background: transparent;
+}
